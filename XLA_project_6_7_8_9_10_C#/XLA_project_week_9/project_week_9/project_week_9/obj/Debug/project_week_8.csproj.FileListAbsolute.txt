@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\obj\Debug\project_week_8.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\obj\Debug\project_week_8.Form1.resources
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\obj\Debug\project_week_8.Properties.Resources.resources
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\obj\Debug\project_week_8.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\obj\Debug\project_week_8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\bin\Debug\project_week_8.exe.config
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\bin\Debug\project_week_8.exe
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\bin\Debug\project_week_8.pdb
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\obj\Debug\project_week_8.exe
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_8\project_week_8\project_week_8\obj\Debug\project_week_8.pdb

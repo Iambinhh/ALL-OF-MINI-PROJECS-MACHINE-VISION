@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.Form1.resources
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.Properties.Resources.resources
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\bin\Debug\project_week6.exe.config
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\bin\Debug\project_week6.exe
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\bin\Debug\project_week6.pdb
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.Form1.resources
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.Properties.Resources.resources
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.exe
+C:\Users\Admin\Downloads\HOC TAP\KI_2_NAM_3\XU LY ANH\USING C#\XLA_project_6_7_8_9_10_C#\XLA_project_week_6\project_week6\project_week6\obj\Debug\project_week6.pdb
